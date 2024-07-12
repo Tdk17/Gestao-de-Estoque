@@ -1,0 +1,1 @@
+C:\Users\peidi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tts-4.0.2\android\src\main\kotlin\com\tundralabs\fluttertts\FlutterTtsPlugin.kt
